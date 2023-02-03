@@ -1,16 +1,25 @@
-# eagram
+# EAGram
+Flutter application that implements socket.io in <a href="https://nodejs.org">Node.js</a>
+Works in - Android, iOS and Web
+## Preview
 
-A new Flutter project.
+## Clone project
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+```
+git clone https://github.com/erfann31/EAGram.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+goto `lib/utils/constants.dart` and update server url
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Run this project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+flutter run
+```
+
+Then goto `build` folder and copy `web` directory into the root folder of your Node.js Backend project
+
