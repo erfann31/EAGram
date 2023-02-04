@@ -1,5 +1,5 @@
-name: quick_chat_app
-description: Chat with friends.
+name: EAGram
+description: Chat with socket.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
