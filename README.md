@@ -2,8 +2,8 @@
 Flutter application that implements socket.io in <a href="https://nodejs.org">Node.js</a>
 Works in - Android, iOS and Web
 ## Preview
-![alt text](https://i.giphy.com/media/l0HlOv7rHhRmj1w8Q/giphy.gif "Example GIF")
-##Server preview<br/>
+![alt text]("https://imgur.com/a/lY9FyKr")<br/>
+## Server preview<br/>
 ![bandicam 2023-02-04 03-28-13-967](https://user-images.githubusercontent.com/75057732/216733077-86d7c750-7a9e-4ffd-8e45-8059b5b1b587.jpg)<br/>
 
 ## Clone project
