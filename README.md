@@ -2,6 +2,7 @@
 Flutter application that implements socket.io in <a href="https://nodejs.org">Node.js</a>
 Works in - Android, iOS and Web
 ## Preview
+![preview](https://github.com/erfann31/EAGram/preview.mp4)
 
 ## Clone project
 
