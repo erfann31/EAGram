@@ -14,8 +14,6 @@ Works in - Android, iOS and Web
 git clone https://github.com/erfann31/EAGram.git
 ```
 
-goto `lib/utils/constants.dart` and update server url
-
 ## Run this project
 
 Go to project root and execute the following command in console to get the required dependencies: 
