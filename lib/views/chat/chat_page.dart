@@ -1,7 +1,8 @@
+import 'package:EAGram/model/chat.dart';
+import 'package:EAGram/service/socket_service.dart';
 import 'package:flutter/material.dart';
 
-import '../../model/chat.dart';
-import '../../service/socket_service.dart';
+
 import 'message_view.dart';
 import 'chat_text_input.dart';
 import 'user_list_view.dart';

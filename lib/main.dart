@@ -1,12 +1,12 @@
+import 'package:EAGram/views/setup/setup_page.dart';
 import 'package:flutter/material.dart';
-import 'package:quick_chat_app/views/setup/setup_page.dart';
 
 void main() {
-  runApp(const QuickChatApp());
+  runApp(const EAGram());
 }
 
-class QuickChatApp extends StatelessWidget {
-  const QuickChatApp({Key? key}) : super(key: key);
+class EAGram extends StatelessWidget {
+  const EAGram({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

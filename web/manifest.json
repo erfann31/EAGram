@@ -1,6 +1,6 @@
 {
-    "name": "Quick Chat",
-    "short_name": "Quick Chat",
+    "name": "EAGram",
+    "short_name": "EAGram",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

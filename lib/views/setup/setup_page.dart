@@ -1,6 +1,7 @@
+import 'package:EAGram/service/socket_service.dart';
+import 'package:EAGram/views/chat/chat_page.dart';
 import 'package:flutter/material.dart';
-import 'package:quick_chat_app/service/socket_service.dart';
-import 'package:quick_chat_app/views/chat/chat_page.dart';
+
 
 class SetupPage extends StatelessWidget {
   const SetupPage({Key? key}) : super(key: key);

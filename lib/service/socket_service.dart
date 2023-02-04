@@ -1,6 +1,8 @@
 import 'dart:async';
-import 'package:quick_chat_app/model/chat.dart';
+
 import 'package:socket_io_client/socket_io_client.dart' as io;
+
+import '../model/chat.dart';
 
 class SocketService {
   static late StreamController<Chat> _socketResponse;
