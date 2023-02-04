@@ -58,7 +58,7 @@ class SetupPage extends StatelessWidget {
                 child: const Text('LOGIN')),
             SizedBox(height: size.height * 0.3),
             const Text(
-              'Made By Adel Karimi and Erfan  Nasri',
+              'Made By Adel Karimi and Erfan Nasri',
               style: TextStyle(fontSize: 11, color: Colors.deepPurple),
             )
           ],
