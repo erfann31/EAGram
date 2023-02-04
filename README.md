@@ -16,7 +16,7 @@ git clone https://github.com/erfann31/EAGram.git
 
 ## Run this project
 
-Go to project root and execute the following command in console to get the required dependencies: 
+Go to project Server root and execute the following command in console to get the required dependencies: 
 
 ```
 flutter pub get 
