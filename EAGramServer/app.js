@@ -57,6 +57,6 @@ io.on('connection', function (socket) {
 
 const PORT = 8080;
 
-server.listen(PORT,'0.0.0.0',()=>{
+server.listen(PORT,()=>{
     console.log('Server up and running at',PORT);
 });
